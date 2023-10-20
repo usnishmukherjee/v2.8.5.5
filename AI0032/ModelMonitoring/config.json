@@ -1,0 +1,24 @@
+{
+    "problem_type": "regression",
+    "modelVersion": "1",
+    "target_feature": "y",
+    "selected_features": [
+        "age",
+        "sex",
+        "bmi",
+        "bp",
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "y"
+    ],
+    "scoring_criteria": "r2",
+    "targetPath": "AI0032",
+    "inputUri": "C:\\Users\\usnish.mukherjee\\AppData\\Local\\Programs\\HCLTech\\AION\\data\\storage\\AION_1697797292.csv",
+    "prod_db_type": "sqlite",
+    "db_config": {},
+    "mlflow_config": {}
+}

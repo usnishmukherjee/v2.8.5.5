@@ -1,0 +1,8 @@
+{
+    "problem_type": "regression",
+    "modelVersion": "1",
+    "target_feature": "y",
+    "targetPath": "AI0032",
+    "ipAddress": "127.0.0.1",
+    "portNo": "8094"
+}

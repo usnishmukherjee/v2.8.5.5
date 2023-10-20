@@ -1,0 +1,8 @@
+{
+    "problem_type": "regression",
+    "modelVersion": "1",
+    "targetPath": "AI0032",
+    "models": [
+        "XGBRegressor_MLBased"
+    ]
+}
