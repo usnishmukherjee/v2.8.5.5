@@ -1,0 +1,8 @@
+{
+    "problem_type": "classification",
+    "modelVersion": "1",
+    "targetPath": "AI0030",
+    "models": [
+        "XGBClassifier_MLBased"
+    ]
+}
